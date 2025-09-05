@@ -18,4 +18,6 @@ Mean Absolute Error: 14.392948494260487
 Mean Squared Error: 424.6068438186428  
 Root Mean Squared Error: 20.60599048380453  
 
+### Graph of results
+![Regression Plot](../../custom-regression-model/custom-regression-result.png)
 

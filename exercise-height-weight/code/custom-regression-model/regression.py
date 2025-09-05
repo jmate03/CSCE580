@@ -1,4 +1,5 @@
-# jsmateo 2025 heavily based on Supervised-Regression example on class repo
+# jsmateo 2025 
+# heavily based on Supervised-Regression example on class repository
 # Model to predict weight, given height using linear regression
 import pandas as pd
 import numpy as np
