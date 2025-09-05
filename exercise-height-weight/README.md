@@ -19,5 +19,5 @@ Mean Squared Error: 424.6068438186428
 Root Mean Squared Error: 20.60599048380453  
 
 ### Graph of results
-![Regression Plot](../../custom-regression-model/custom-regression-result.png)
+![Regression Plot](code/custom-regression-model/custom-regression-result.png)
 
