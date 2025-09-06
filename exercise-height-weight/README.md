@@ -1,10 +1,20 @@
 # Height-Weight Exercise by jsmateo  
-
+Both models are based on the examples provided in the class repository, specifically:  
+- [Supervised-Regression](https://github.com/biplav-s/course-d2d-ai/blob/main/sample-code/l6-l7-l8-supervised-ml/Supervised-Regression.ipynb)
+- [Supervised-Regression-Classification](https://github.com/biplav-s/course-d2d-ai/blob/main/sample-code/l6-l7-l8-supervised-ml/Supervised-Regression-Classification.ipynb)
 
 ## custom-classifier-model  
-Work in progress.
+Uses logistic regression to classify BMI into 4 categories, given height.  
+
+### Model details  
+intercept :  [ 0.14718054  0.18214376 -7.9748951   7.64557081]  
+coeff :  [[-0.00824705] [ 0.00629849] [ 0.04789867] [-0.0459501 ]]  
+### Confusion Matrix:  
+[[2 0 0]  
+ [3 0 0]  
+ [1 0 0]]
 ## custom-regression-model  
-Uses linear regression to predict weight given height  
+Uses linear regression to predict weight given height . 
 
 ### Model details:
 intercept :  -30.65326358105149  
