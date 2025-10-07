@@ -9,4 +9,8 @@ c) I copied the entire recipe to a pdf and manually cleaned both recipes of repe
 For example:  
 `10/7/25, 4:46 PM Jell-O Marshmallow Fondant : 3 Steps (with Pictures) - Instructables
 https://www.instructables.com/Jell-O-Marshmallow-Fondant/ 1/5  `  
-As I believe they are not relevant to the content of the recipe.
+As I believe they are not relevant to the content of the recipe.  
+
+### Final Questions
+Q1: Full does well as with partial the AI would deviate from the desired output fairly often, likely due to the limited memory.
+Q2: N/A, did not finish

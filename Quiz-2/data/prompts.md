@@ -15,4 +15,12 @@ Out:
 Prompt 3: **(Recipe Text)** convert this recipe into r3 format in json.  
 Out:
 [Chocolate Cake Output 3](5min_choc_cake3.json)  
-[Jello Fondant Output 3](jello_marshmallow_fondant3.json)
+[Jello Fondant Output 3](jello_marshmallow_fondant3.json)  
+
+### Prompt-partial Approach
+
+Prompt 1: **(Recipe Text)** convert this recipe into r3 format, starting with just the recipe name, data provenance, and macronutrients.
+
+Prompt 1b: Add the ingrediants and instructions to that file.
+
+Out:

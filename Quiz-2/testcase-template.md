@@ -7,10 +7,10 @@ Quiz-2
 The objective is to convert online recipes to json using LLMs
 
 ### 4. TC-input: 
-[data](data)
+[File of all prompts used](data/prompts.md)
 
 ### 5. TC-reference-output: 
-_ // The output to be used as reference to compare and evaluate AI._
+[Example r3 output from github](data/example_r3_egg-drop-chicken-noodle-soup.json)
 
 ### 6. TC-harm-risk-info: 
 _ // Risk information that the test case may be associated with. Also mention harm categories from the book: HC1-incorrect-info, HC2-opinion-manipulation, HC3-unstable-output, HC4-uncooperative-ai. Or, use HC5 for others. _
