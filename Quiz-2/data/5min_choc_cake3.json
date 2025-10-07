@@ -1,0 +1,67 @@
+{
+  "recipe": {
+    "name": "5-minute Chocolate Cake",
+    "author": "scoochmaroo",
+    "category": "Cooking",
+    "subcategory": "Cake",
+    "introduction": "A quick and easy chocolate cake you can make in just 5 minutes! After experimenting with several variations, this version delivers a rich, moist, and reliable cake every time. Perfect for a late-night dessert craving!",
+    "servings": 1,
+    "time": {
+      "prep": "2 minutes",
+      "cook": "3 minutes",
+      "total": "5 minutes"
+    },
+    "tools": [
+      "Mug",
+      "Digital Scale",
+      "Microwave"
+    ],
+    "ingredients": [
+      { "quantity": "4 tablespoons", "item": "flour", "note": "measure carefully" },
+      { "quantity": "4 tablespoons", "item": "sugar" },
+      { "quantity": "1 tablespoon", "item": "unsweetened cocoa" },
+      { "quantity": "2 tablespoons", "item": "whisked egg", "note": "1 egg is too much; 2 tbsp is just right" },
+      { "quantity": "3 tablespoons", "item": "milk" },
+      { "quantity": "3 tablespoons", "item": "oil" },
+      { "quantity": "3 tablespoons", "item": "chocolate chips", "note": "or broken candy bar pieces" },
+      { "quantity": "1 splash", "item": "vanilla or other flavoring", "note": "try peppermint or cinnamon" }
+    ],
+    "optional_variations": [
+      "For a fudgier version, omit the egg."
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "title": "Mix Your Ingredients",
+        "instructions": [
+          "Add all dry ingredients to the mug and mix well.",
+          "Add the whisked egg and combine thoroughly. The mixture will become thick and pasty.",
+          "Stir in the milk and oil until smooth.",
+          "Add chocolate chips and a splash of vanilla or other flavoring. Stir well."
+        ]
+      },
+      {
+        "step_number": 2,
+        "title": "Microwave the Cake",
+        "instructions": [
+          "Microwave for 3 minutes in a 1000W oven or 4 minutes in a 700W oven.",
+          "The cake will rise over the top of the mug—don’t panic! It will settle once heating stops."
+        ]
+      },
+      {
+        "step_number": 3,
+        "title": "Experiment and Customize",
+        "instructions": [
+          "Microwave ovens vary, so you may need to adjust the time slightly.",
+          "Try using a little less egg or flour if the texture isn’t ideal.",
+          "Keep notes to perfect your own version of this mug cake!"
+        ]
+      }
+    ],
+    "notes": [
+      "Measure flour carefully to ensure the right texture.",
+      "Using chocolate chunks or candy pieces enhances the flavor.",
+      "The cake can overflow slightly—use a large mug!"
+    ]
+  }
+}

@@ -9,5 +9,10 @@ Out:
 
 Prompt 2: **(Recipe Text)** convert this recipe into a recipe representation record format in json.  
 Out:  
-[Chocolate Cake Output 2](5min_choc_cake2.json)
-[Jello Fondant Output 2](jello_marshmallow_fondant2.json)
+[Chocolate Cake Output 2](5min_choc_cake2.json)  
+[Jello Fondant Output 2](jello_marshmallow_fondant2.json)  
+
+Prompt 3: **(Recipe Text)** convert this recipe into r3 format in json.  
+Out:
+[Chocolate Cake Output 3](5min_choc_cake3.json)  
+[Jello Fondant Output 3](jello_marshmallow_fondant3.json)

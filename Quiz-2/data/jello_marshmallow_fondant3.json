@@ -1,0 +1,65 @@
+{
+  "recipe": {
+    "name": "Jell-O Marshmallow Fondant",
+    "author": "Penolopy Bulnick",
+    "category": ["Cooking", "Dessert"],
+    "description": "A colorful and flavorful twist on marshmallow fondant using Jell-O mix for both color and taste. Easy to make and perfect for rainbow fondant creations.",
+    "ingredients": [
+      {
+        "item": "Marshmallows",
+        "quantity": "8 oz"
+      },
+      {
+        "item": "Powdered Sugar",
+        "quantity": "1 lb",
+        "note": "Add as needed"
+      },
+      {
+        "item": "Jello Mix",
+        "quantity": "3 oz box",
+        "note": "Flavor of choice"
+      },
+      {
+        "item": "Water",
+        "quantity": "2 tbsp",
+        "note": "Approximate"
+      }
+    ],
+    "optional_supplies": [
+      "Silpat Mat (recommended for kneading and easy cleanup)",
+      "Mixing Bowls",
+      "Microwave"
+    ],
+    "small_batch_example": {
+      "marshmallows": "2 oz",
+      "powdered_sugar": "1/4 lb",
+      "jello_mix": "4 tsp",
+      "water": "Small amount"
+    },
+    "steps": [
+      {
+        "step": 1,
+        "title": "Initial Mixing",
+        "instructions": "Combine marshmallows, water, and Jell-O mix in a microwave-safe bowl. If Jell-O grains are large, process to a fine powder first. Microwave on half power for 50 seconds, stir, then another 45 seconds. Mix until melted and smooth. Watch closely as it will puff up."
+      },
+      {
+        "step": 2,
+        "title": "Bring on the Sugar!",
+        "instructions": "Gradually sift powdered sugar into the melted mixture, stirring until it starts to form a ball. When it holds shape and no longer melts down, transfer to a sugar-dusted surface or Silpat mat. Knead gently, adding more powdered sugar as needed, until non-sticky. Wrap and store until use."
+      },
+      {
+        "step": 3,
+        "title": "Use and Enjoy",
+        "instructions": "If fondant becomes too tough, reduce sugar next time or test different Jell-O flavors. Cherry flavor tends to stiffen more. For stronger flavor, add extra Jell-O mix. Berry Blue is highly recommended for taste and color."
+      }
+    ],
+    "notes": [
+      "You can divide the marshmallow base and mix with different Jell-O flavors for a rainbow fondant set.",
+      "Taste and texture can vary by flavor; adjust powdered sugar and mix times as needed."
+    ],
+    "yield": "Approx. 1 lb fondant",
+    "difficulty": "Easy",
+    "prep_time": "15 minutes",
+    "total_time": "30 minutes"
+  }
+}
