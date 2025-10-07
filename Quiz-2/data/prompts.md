@@ -1,4 +1,13 @@
 ## Prompts for Quiz-2
 For clarity I will refer to the whole recipe text as just **(Recipe Text)**  
-1. **(Recipe Text)** convert this recipe into json with the recipe representation record (r3) format with the following metadata 'recipe_name' 'data_provenance' 'macronutrients' 'ingredients' 'instructions'  
-Out: 
+
+### Prompt-full Approach
+Prompt 1:  **(Recipe Text)** convert this recipe into json with the recipe representation record (r3) format with the following metadata 'recipe_name' 'data_provenance' 'macronutrients' 'ingredients' 'instructions'  
+Out:   
+[Chocolate Cake Output 1](5min_choc_cake1.json)  
+[Jello Fondant Output 1](jello_marshmallow_fondant.json)
+
+Prompt 2: **(Recipe Text)** convert this recipe into a recipe representation record format in json.  
+Out:  
+[Chocolate Cake Output 2](5min_choc_cake2.json)
+[Jello Fondant Output 2](jello_marshmallow_fondant2.json)

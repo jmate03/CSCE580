@@ -1,0 +1,39 @@
+{
+  "recipe_name": "Jell-O Marshmallow Fondant",
+  "author": "Penolopy Bulnick",
+  "category": "CookingDessert",
+  "description": "A fun twist on traditional marshmallow fondant that uses Jell-O to add both flavor and color. Simple, delicious, and perfect for making rainbow fondant decorations.",
+  "ingredients": [
+    {
+      "item": "Marshmallows",
+      "quantity": "8 oz"
+    },
+    {
+      "item": "Powdered Sugar",
+      "quantity": "1 lb"
+    },
+    {
+      "item": "Jello Mix (flavor of choice)",
+      "quantity": "3 oz box"
+    },
+    {
+      "item": "Water",
+      "quantity": "2 tbsp (approximate)"
+    }
+  ],
+  "equipment": [
+    "Silpat Mat",
+    "Mixing Bowls",
+    "Microwave"
+  ],
+  "scaled_example": {
+    "Marshmallows": "2 oz",
+    "Powdered Sugar": "1/4 lb",
+    "Jello Mix": "4 tsp",
+    "Water": "a little bit"
+  },
+  "steps": [
+    {
+      "step_number": 1,
+      "title": "Initial Mixing",
+      "instructions": "Combine marshmallows, water, and Jello mix in a microwave-safe bowl. If the Jello granules are large, run them through a food processor until fine. Microwave the mixture for 50 seconds on half power, stir, then microwave again for 45 seconds on half power. Stir again until smooth and fully melted. Watch closely as it will puff up.

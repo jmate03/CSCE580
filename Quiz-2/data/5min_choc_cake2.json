@@ -1,0 +1,100 @@
+{
+  "recipe_name": "5-minute Chocolate Cake",
+  "author": "scoochmaroo",
+  "category": "Cooking > Cake",
+  "description": "A quick and easy chocolate cake you can make in a mug in just 5 minutes. Perfect for a rich, instant dessert.",
+  "tools": [
+    "Mug",
+    "Digital Scale",
+    "Microwave"
+  ],
+  "ingredients": [
+    {
+      "name": "flour",
+      "amount": 4,
+      "unit": "tablespoons",
+      "notes": "measure accurately"
+    },
+    {
+      "name": "sugar",
+      "amount": 4,
+      "unit": "tablespoons"
+    },
+    {
+      "name": "unsweetened cocoa",
+      "amount": 1,
+      "unit": "tablespoon"
+    },
+    {
+      "name": "whisked egg",
+      "amount": 2,
+      "unit": "tablespoons",
+      "notes": "1 whole egg is too much; 2 tablespoons is ideal"
+    },
+    {
+      "name": "milk",
+      "amount": 3,
+      "unit": "tablespoons"
+    },
+    {
+      "name": "oil",
+      "amount": 3,
+      "unit": "tablespoons"
+    },
+    {
+      "name": "chocolate chips",
+      "amount": 3,
+      "unit": "tablespoons",
+      "notes": "or use broken up candy bar pieces"
+    },
+    {
+      "name": "vanilla or other flavoring",
+      "amount": "splash",
+      "unit": null,
+      "notes": "try peppermint or cinnamon"
+    }
+  ],
+  "optional_variations": [
+    "For a fudgier version, omit the egg.",
+    "Experiment with different flavorings or chocolate types."
+  ],
+  "steps": [
+    {
+      "step_number": 1,
+      "title": "Mix Dry Ingredients",
+      "instructions": "Add all dry ingredients to the mug and mix well."
+    },
+    {
+      "step_number": 2,
+      "title": "Add Wet Ingredients",
+      "instructions": "Add the egg and combine thoroughly. Stir in milk and oil until smooth."
+    },
+    {
+      "step_number": 3,
+      "title": "Add Chocolate and Flavoring",
+      "instructions": "Add chocolate chips and a splash of vanilla (or chosen flavor). Stir until well combined."
+    },
+    {
+      "step_number": 4,
+      "title": "Microwave",
+      "instructions": "Microwave for 3 minutes in a 1000w microwave, or 4 minutes in a 700w microwave. Cake will rise above the mug and collapse once done."
+    },
+    {
+      "step_number": 5,
+      "title": "Experiment and Adjust",
+      "instructions": "Adjust cooking time or ingredient ratios based on your microwave and preference. Take notes on variations to find your ideal texture."
+    }
+  ],
+  "notes": [
+    "Microwave times vary by wattage — start with less time and add more if needed.",
+    "Omitting the egg creates a denser, fudgier cake.",
+    "The cake will collapse slightly after microwaving; this is normal."
+  ],
+  "estimated_time": {
+    "prep_time": "2 minutes",
+    "cook_time": "3 minutes",
+    "total_time": "5 minutes"
+  },
+  "servings": 1,
+  "source": "Instructables - 5-minute Chocolate Cake by scoochmaroo"
+}

@@ -1,0 +1,53 @@
+{
+  "recipe_name": "Jell-O Marshmallow Fondant",
+  "data_provenance": {
+    "author": "Penolopy Bulnick",
+    "source": "Instructables - Cooking Dessert",
+    "url": "https://www.instructables.com/Jell-O-Marshmallow-Fondant/",
+    "license": "CC BY-NC-SA"
+  },
+  "macronutrients": {
+    "serving_size": "Varies",
+    "calories": "Approx. 80 kcal per oz",
+    "carbohydrates": "20 g",
+    "protein": "0 g",
+    "fat": "0 g"
+  },
+  "ingredients": [
+    {
+      "item": "Marshmallows",
+      "quantity": "8 oz"
+    },
+    {
+      "item": "Powdered Sugar",
+      "quantity": "1 lb",
+      "note": "May vary; add until proper consistency is reached"
+    },
+    {
+      "item": "Jello Mix",
+      "quantity": "3 oz",
+      "note": "Flavor of choice"
+    },
+    {
+      "item": "Water",
+      "quantity": "2 tbsp (approx.)"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "Initial Mixing",
+      "description": "Combine marshmallows, water, and jello mix in a microwave-safe bowl. If the jello granules are coarse, grind them in a food processor first. Microwave for 50 seconds at half power, stir, then heat for another 45 seconds at half power. Stir again and repeat as needed until fully melted and puffed."
+    },
+    {
+      "step": 2,
+      "title": "Bring on the Sugar",
+      "description": "Gradually sift in powdered sugar, mixing until a dough begins to form. When the fondant holds its shape and doesn’t melt into the bowl, transfer it to a powdered sugar–coated surface (preferably a Silpat mat). Knead carefully, adding more sugar as needed, until smooth and non-sticky. It should pass between your hands about 20 times without sticking."
+    },
+    {
+      "step": 3,
+      "title": "Use and Enjoy",
+      "description": "Wrap the fondant and let it rest until ready to use. Different jello flavors may affect texture—if the fondant feels tough, you may have added too much sugar or the flavor may mix differently. Adjust flavor intensity by adding more jello mix if desired. Enjoy experimenting with colors and flavors!"
+    }
+  ]
+}
