@@ -1,0 +1,82 @@
+{
+  "recipe_name": "5-minute Chocolate Cake",
+  "data_provenance": "Recipe by scoochmaroo on Instructables (CookingCake category)",
+  "macronutrients": {
+    "approximate_per_serving": {
+      "calories": 600,
+      "protein_g": 9,
+      "fat_g": 35,
+      "carbohydrates_g": 65
+    },
+    "notes": "Values estimated based on standard ingredient data for a single mug cake serving."
+  },
+  "ingredients": [
+    {
+      "name": "flour",
+      "quantity": 4,
+      "unit": "tablespoons",
+      "notes": "Measure carefully for correct texture."
+    },
+    {
+      "name": "sugar",
+      "quantity": 4,
+      "unit": "tablespoons"
+    },
+    {
+      "name": "unsweetened cocoa powder",
+      "quantity": 1,
+      "unit": "tablespoon"
+    },
+    {
+      "name": "egg (whisked)",
+      "quantity": 2,
+      "unit": "tablespoons",
+      "notes": "Do not use a whole egg; 2 tbsp gives the best texture."
+    },
+    {
+      "name": "milk",
+      "quantity": 3,
+      "unit": "tablespoons"
+    },
+    {
+      "name": "oil",
+      "quantity": 3,
+      "unit": "tablespoons"
+    },
+    {
+      "name": "chocolate chips",
+      "quantity": 3,
+      "unit": "tablespoons",
+      "optional": true,
+      "substitutions": "Can use broken candy bar pieces instead."
+    },
+    {
+      "name": "vanilla extract or other flavoring",
+      "quantity": "splash",
+      "optional": true,
+      "suggestions": ["peppermint", "cinnamon"]
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "Prepare tools and ingredients",
+      "description": "Gather a large microwave-safe mug, digital scale, and a microwave. Measure all ingredients accurately."
+    },
+    {
+      "step": 2,
+      "title": "Mix ingredients",
+      "description": "Add flour, sugar, and cocoa to the mug and mix. Add whisked egg and combine until pasty. Stir in milk and oil. Add chocolate chips and a splash of vanilla. Mix thoroughly."
+    },
+    {
+      "step": 3,
+      "title": "Microwave",
+      "description": "Cook for 3 minutes in a 1000W microwave or 4 minutes in a 700W microwave. The cake will rise above the mug but settle after cooking."
+    },
+    {
+      "step": 4,
+      "title": "Customize and experiment",
+      "description": "Adjust microwave time, egg, or flour amounts for different textures. Keep notes on what works best with your microwave. For a fudgier version, omit the egg."
+    }
+  ]
+}
