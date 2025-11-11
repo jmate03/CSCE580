@@ -103,11 +103,3 @@ class MCAgentDFS:
             return find_moves(solution)
         else:
             return []
-        
-
-if __name__ == "__main__":
-    agent = MCAgentDFS()
-    moves = agent.solve(3, 3)
-    print("Solution moves:")
-    for step, move in enumerate(moves, 1):
-        print(f"Step {step}: Move {move[0]} missionaries and {move[1]} cannibals")
