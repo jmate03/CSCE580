@@ -4,10 +4,10 @@ _ // This file uses the provided template for recording testcases for chatbots_
 TC-1
 
 ### 2. TC-name: 
-Short positive phrase
+Short-Positive-Review
 
 ### 3. TC-objective: 
-Checking a basic positive sentiment.
+Checking a basic positive review.
 
 ### 4. TC-input: 
 "This movie was great!"
@@ -19,7 +19,7 @@ Positive
 HC2-opinion-manipulation
 
 ### 7. TC-other-info: 
-_ // Any other information to be recorded. _
+N/A, simple and straight forward test case
 
 
 ----

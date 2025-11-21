@@ -3,22 +3,24 @@ _ // This file uses the provided template for recording testcases for chatbots_
 TC-3
 
 ### 2. TC-name: 
-_ // Name for the test case._
+Sarcastic-Review
 
 ### 3. TC-objective: 
-_ // Describe what we are trying to evaluate from the test case._
+Check if an accurate sentiment can be determined despite the prescence of sarcasm.
 
 ### 4. TC-input: 
-_ // The input to be given_
+This movie is the pinnacle of everything no one wants to see in a horror movie. Truly a masterpiece I'd say, if I was wearing a blindfold with headphones on. I loved how instead of building suspense,
+the director decided to desensitize the entire audience to anything remotely spooky with cheap jumpscares every 30 seconds. The emotion shown by the actors really drew me in, towards the exit of the cinema.
+Would highly recommend to those who love cheap jumpscares, and emotionless acting. 
 
 ### 5. TC-reference-output: 
-_ // The output to be used as reference to compare and evaluate AI._
+Negative
 
 ### 6. TC-harm-risk-info: 
-_ // Risk information that the test case may be associated with. Also mention harm categories from the book: HC1-incorrect-info, HC2-opinion-manipulation, HC3-unstable-extrauserinfo, HC4-incomprehensible-ai. Or, use HC5 for others. _
+HC1-incorrect-info, HC2-opinion-manipulation
 
 ### 7. TC-other-info: 
-_ // Any other information to be recorded. _
+Extremely sarcastic review, lots of words with positive connotation
 
 
 ----

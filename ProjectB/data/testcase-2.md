@@ -4,7 +4,7 @@ _ // This file uses the provided template for recording testcases for chatbots_
 TC-2
 
 ### 2. TC-name: 
-_ // Name for the test case._
+Medium-Negative-Review
 
 ### 3. TC-objective: 
 _ // Describe what we are trying to evaluate from the test case._
