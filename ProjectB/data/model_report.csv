@@ -1,0 +1,101 @@
+item_index,model_name,metric_name,score,passed_threshold,threshold_applied,generated_text,reference_text
+0,Fine-tuned DistilBERT,Jaccard,1.0,True,0.5,pos,pos
+0,Fine-tuned DistilBERT,Cosine,1.0,True,0.5,pos,pos
+0,Fine-tuned DistilBERT,Levenshtein,1.0,True,0.5,pos,pos
+0,Fine-tuned DistilBERT,SequenceMatcher,1.0,True,0.5,pos,pos
+0,Fine-tuned DistilBERT,BLEU,0.07049141756270426,False,0.5,pos,pos
+0,Fine-tuned DistilBERT,ROUGE_rouge1,1.0,True,0.5,pos,pos
+0,Fine-tuned DistilBERT,ROUGE_rouge2,0.0,False,0.5,pos,pos
+0,Fine-tuned DistilBERT,ROUGE_rougeL,1.0,True,0.5,pos,pos
+0,Fine-tuned DistilBERT,JSD,1.0,False,0.5,pos,pos
+0,Base DistilBERT,Jaccard,0.0,False,0.5,neg,pos
+0,Base DistilBERT,Cosine,0.0,False,0.5,neg,pos
+0,Base DistilBERT,Levenshtein,0.0,False,0.5,neg,pos
+0,Base DistilBERT,SequenceMatcher,0.0,False,0.5,neg,pos
+0,Base DistilBERT,BLEU,0.07049141756270426,False,0.5,neg,pos
+0,Base DistilBERT,ROUGE_rouge1,0.0,False,0.5,neg,pos
+0,Base DistilBERT,ROUGE_rouge2,0.0,False,0.5,neg,pos
+0,Base DistilBERT,ROUGE_rougeL,0.0,False,0.5,neg,pos
+0,Base DistilBERT,JSD,0.1674453888423023,True,0.5,neg,pos
+0,GPT-2,Jaccard,1.0,True,0.5,pos,pos
+0,GPT-2,Cosine,1.0,True,0.5,pos,pos
+0,GPT-2,Levenshtein,1.0,True,0.5,pos,pos
+0,GPT-2,SequenceMatcher,1.0,True,0.5,pos,pos
+0,GPT-2,BLEU,0.059275980334630746,False,0.5,pos,pos
+0,GPT-2,ROUGE_rouge1,1.0,True,0.5,pos,pos
+0,GPT-2,ROUGE_rouge2,0.0,False,0.5,pos,pos
+0,GPT-2,ROUGE_rougeL,1.0,True,0.5,pos,pos
+0,GPT-2,JSD,1.0,False,0.5,pos,pos
+0,Logistic Regression,Jaccard,1.0,True,0.5,pos,pos
+0,Logistic Regression,Cosine,1.0,True,0.5,pos,pos
+0,Logistic Regression,Levenshtein,1.0,True,0.5,pos,pos
+0,Logistic Regression,SequenceMatcher,1.0,True,0.5,pos,pos
+0,Logistic Regression,BLEU,0.07049141756270426,False,0.5,pos,pos
+0,Logistic Regression,ROUGE_rouge1,1.0,True,0.5,pos,pos
+0,Logistic Regression,ROUGE_rouge2,0.0,False,0.5,pos,pos
+0,Logistic Regression,ROUGE_rougeL,1.0,True,0.5,pos,pos
+0,Logistic Regression,JSD,1.0,False,0.5,pos,pos
+1,Fine-tuned DistilBERT,Jaccard,1.0,True,0.5,neg,neg
+1,Fine-tuned DistilBERT,Cosine,1.0,True,0.5,neg,neg
+1,Fine-tuned DistilBERT,Levenshtein,1.0,True,0.5,neg,neg
+1,Fine-tuned DistilBERT,SequenceMatcher,1.0,True,0.5,neg,neg
+1,Fine-tuned DistilBERT,ROUGE_rouge1,1.0,True,0.5,neg,neg
+1,Fine-tuned DistilBERT,ROUGE_rouge2,0.0,False,0.5,neg,neg
+1,Fine-tuned DistilBERT,ROUGE_rougeL,1.0,True,0.5,neg,neg
+1,Fine-tuned DistilBERT,JSD,1.0,False,0.5,neg,neg
+1,Base DistilBERT,Jaccard,1.0,True,0.5,neg,neg
+1,Base DistilBERT,Cosine,1.0,True,0.5,neg,neg
+1,Base DistilBERT,Levenshtein,1.0,True,0.5,neg,neg
+1,Base DistilBERT,SequenceMatcher,1.0,True,0.5,neg,neg
+1,Base DistilBERT,ROUGE_rouge1,1.0,True,0.5,neg,neg
+1,Base DistilBERT,ROUGE_rouge2,0.0,False,0.5,neg,neg
+1,Base DistilBERT,ROUGE_rougeL,1.0,True,0.5,neg,neg
+1,Base DistilBERT,JSD,1.0,False,0.5,neg,neg
+1,GPT-2,Jaccard,0.0,False,0.5,pos,neg
+1,GPT-2,Cosine,0.0,False,0.5,pos,neg
+1,GPT-2,Levenshtein,0.0,False,0.5,pos,neg
+1,GPT-2,SequenceMatcher,0.0,False,0.5,pos,neg
+1,GPT-2,ROUGE_rouge1,0.0,False,0.5,pos,neg
+1,GPT-2,ROUGE_rouge2,0.0,False,0.5,pos,neg
+1,GPT-2,ROUGE_rougeL,0.0,False,0.5,pos,neg
+1,GPT-2,JSD,0.1674453888423023,True,0.5,pos,neg
+1,Logistic Regression,Jaccard,0.0,False,0.5,pos,neg
+1,Logistic Regression,Cosine,0.0,False,0.5,pos,neg
+1,Logistic Regression,Levenshtein,0.0,False,0.5,pos,neg
+1,Logistic Regression,SequenceMatcher,0.0,False,0.5,pos,neg
+1,Logistic Regression,ROUGE_rouge1,0.0,False,0.5,pos,neg
+1,Logistic Regression,ROUGE_rouge2,0.0,False,0.5,pos,neg
+1,Logistic Regression,ROUGE_rougeL,0.0,False,0.5,pos,neg
+1,Logistic Regression,JSD,0.1674453888423023,True,0.5,pos,neg
+2,Fine-tuned DistilBERT,Jaccard,0.0,False,0.5,pos,neg
+2,Fine-tuned DistilBERT,Cosine,0.0,False,0.5,pos,neg
+2,Fine-tuned DistilBERT,Levenshtein,0.0,False,0.5,pos,neg
+2,Fine-tuned DistilBERT,SequenceMatcher,0.0,False,0.5,pos,neg
+2,Fine-tuned DistilBERT,ROUGE_rouge1,0.0,False,0.5,pos,neg
+2,Fine-tuned DistilBERT,ROUGE_rouge2,0.0,False,0.5,pos,neg
+2,Fine-tuned DistilBERT,ROUGE_rougeL,0.0,False,0.5,pos,neg
+2,Fine-tuned DistilBERT,JSD,0.1674453888423023,True,0.5,pos,neg
+2,Base DistilBERT,Jaccard,1.0,True,0.5,neg,neg
+2,Base DistilBERT,Cosine,1.0,True,0.5,neg,neg
+2,Base DistilBERT,Levenshtein,1.0,True,0.5,neg,neg
+2,Base DistilBERT,SequenceMatcher,1.0,True,0.5,neg,neg
+2,Base DistilBERT,ROUGE_rouge1,1.0,True,0.5,neg,neg
+2,Base DistilBERT,ROUGE_rouge2,0.0,False,0.5,neg,neg
+2,Base DistilBERT,ROUGE_rougeL,1.0,True,0.5,neg,neg
+2,Base DistilBERT,JSD,1.0,False,0.5,neg,neg
+2,GPT-2,Jaccard,0.0,False,0.5,pos,neg
+2,GPT-2,Cosine,0.0,False,0.5,pos,neg
+2,GPT-2,Levenshtein,0.0,False,0.5,pos,neg
+2,GPT-2,SequenceMatcher,0.0,False,0.5,pos,neg
+2,GPT-2,ROUGE_rouge1,0.0,False,0.5,pos,neg
+2,GPT-2,ROUGE_rouge2,0.0,False,0.5,pos,neg
+2,GPT-2,ROUGE_rougeL,0.0,False,0.5,pos,neg
+2,GPT-2,JSD,0.1674453888423023,True,0.5,pos,neg
+2,Logistic Regression,Jaccard,1.0,True,0.5,neg,neg
+2,Logistic Regression,Cosine,1.0,True,0.5,neg,neg
+2,Logistic Regression,Levenshtein,1.0,True,0.5,neg,neg
+2,Logistic Regression,SequenceMatcher,1.0,True,0.5,neg,neg
+2,Logistic Regression,ROUGE_rouge1,1.0,True,0.5,neg,neg
+2,Logistic Regression,ROUGE_rouge2,0.0,False,0.5,neg,neg
+2,Logistic Regression,ROUGE_rougeL,1.0,True,0.5,neg,neg
+2,Logistic Regression,JSD,1.0,False,0.5,neg,neg
