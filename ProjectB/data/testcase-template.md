@@ -17,7 +17,7 @@ _ // The input to be given_
 _ // The output to be used as reference to compare and evaluate AI._
 
 ### 6. TC-harm-risk-info: 
-_ // Risk information that the test case may be associated with. Also mention harm categories from the book: HC1-incorrect-info, HC2-opinion-manipulation, HC3-unstable-extrauserinfo, HC4-incomprehensible-ai. Or, use HC5 for others. _
+HC2-opinion-manipulation
 
 ### 7. TC-other-info: 
 _ // Any other information to be recorded. _
