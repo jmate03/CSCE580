@@ -7,19 +7,20 @@ TC-2
 Medium-Negative-Review
 
 ### 3. TC-objective: 
-_ // Describe what we are trying to evaluate from the test case._
+Check for if a negative sentiment can be predicted based on a more lengthy and not as straightforward review.
 
 ### 4. TC-input: 
-_ // The input to be given_
+The movie was not great. It had its ups and downs throughout but overall it failed to really hook me with the story. The soundtrack and visuals were nice but the acting left a lot to be desired. The story itself was bland and did not help with everything else considered. Overall would not recommend.
+
 
 ### 5. TC-reference-output: 
-_ // The output to be used as reference to compare and evaluate AI._
+Negative
 
 ### 6. TC-harm-risk-info: 
-_ // Risk information that the test case may be associated with. Also mention harm categories from the book: HC1-incorrect-info, HC2-opinion-manipulation, HC3-unstable-extrauserinfo, HC4-incomprehensible-ai. Or, use HC5 for others. _
+HC2-opinion-manipulation
 
 ### 7. TC-other-info: 
-_ // Any other information to be recorded. _
+This input uses several words with positive and negative connotations, but overall the sentiment is negative.
 
 
 ----
